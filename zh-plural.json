@@ -1,0 +1,54 @@
+{
+  "pluralRulesHelp": "http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html#zh",
+  "album": {
+    "other": "albums"
+  },
+  "song": {
+    "other": "songs"
+  },
+  "audio": {
+    "other": "songs"
+  },
+  "movie": {
+    "other": "movies"
+  },
+  "series": {
+    "other": "series"
+  },
+  "season": {
+    "other": "seasons"
+  },
+  "episode": {
+    "other": "episodes"
+  },
+  "channel": {
+    "other": "channels"
+  },
+  "result": {
+    "other": "results"
+  },
+  "follower": {
+    "other": "followers"
+  },
+  "day": {
+    "other": "days"
+  },
+  "hour": {
+    "other": "hours"
+  },
+  "minute": {
+    "other": "minutes"
+  },
+  "second": {
+    "other": "seconds"
+  },
+  "min": {
+    "other": "mins"
+  },
+  "character": {
+    "other": "characters"
+  },
+  "item": {
+    "other": "items"
+  }
+}
