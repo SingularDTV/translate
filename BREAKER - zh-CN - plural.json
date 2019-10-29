@@ -1,0 +1,54 @@
+{
+  "pluralRulesHelp": "http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html#zh",
+  "album": {
+    "other": "专辑"
+  },
+  "song": {
+    "other": "歌曲"
+  },
+  "audio": {
+    "other": "歌曲"
+  },
+  "movie": {
+    "other": "电影"
+  },
+  "series": {
+    "other": "连续剧"
+  },
+  "season": {
+    "other": "剧季"
+  },
+  "episode": {
+    "other": "剧集"
+  },
+  "channel": {
+    "other": "频道"
+  },
+  "result": {
+    "other": "结果"
+  },
+  "follower": {
+    "other": "追随者"
+  },
+  "day": {
+    "other": "日"
+  },
+  "hour": {
+    "other": "时"
+  },
+  "minute": {
+    "other": "分"
+  },
+  "second": {
+    "other": "秒"
+  },
+  "min": {
+    "other": "分"
+  },
+  "character": {
+    "other": "字元"
+  },
+  "item": {
+    "other": "项目"
+  }
+}
