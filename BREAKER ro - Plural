@@ -1,0 +1,54 @@
+{
+  "pluralRulesHelp": "http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html#ro",
+  "album": {
+    "other": "albume"
+  },
+  "song": {
+    "other": "cântece"
+  },
+  "audio": {
+    "other": "cântece"
+  },
+  "movie": {
+    "other": "filme"
+  },
+  "series": {
+    "other": "seriale"
+  },
+  "season": {
+    "other": "sezoane"
+  },
+  "episode": {
+    "other": "episoade"
+  },
+  "channel": {
+    "other": "canale"
+  },
+  "result": {
+    "other": "rezultate"
+  },
+  "follower": {
+    "other": "followerși"
+  },
+  "day": {
+    "other": "zile"
+  },
+  "hour": {
+    "other": "ore"
+  },
+  "minute": {
+    "other": "minute"
+  },
+  "second": {
+    "other": "secunde"
+  },
+  "min": {
+    "other": "minute"
+  },
+  "character": {
+    "other": "caractere"
+  },
+  "item": {
+    "other": "elemente"
+  }
+}
